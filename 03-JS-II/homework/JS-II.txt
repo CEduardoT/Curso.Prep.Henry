@@ -1,0 +1,12 @@
+Homework: Javascript II
+1. * `for`
+
+El for es un bucle, que tiene parametros que se necesita para ser usado, comienza con una inicializacion, despues hasata donde quieres
+que termine, y por utlimo cuanto quieres que incremente o sume, y dentro de las llaves se pone lo que se quiere repetir todas las veces que quieras
+o hasta que termine.
+
+2. * `&&`, `||`, `!`
+
+el && es Y que nos ayuda a poner 2 condiciones en una, las barritas || significan o, o se cummple esto o se cumple lo otro, y el signo de
+exclamacion siginifica la negacion, como ejemplo tenemos: Tengo un gato, agregando el !, se niega, por lo que quedaría, no tengo un gato :(.
+*/

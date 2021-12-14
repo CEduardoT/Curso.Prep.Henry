@@ -1,0 +1,4 @@
+* Arrays
+Un array basicamente es como una cajita donde se guardan muchas cosas, en este caso pueden ser bolleanos, strings, enteros, etc.
+un ejmplo para tener un concepto más claro podria ser: tengo una caja con el nombre juguetes, y en ellos puedo guardar pelotas, un muñeco,
+un avion y un libro, entonces yo en ese orden puedo sacar las cosas o seguir agregandolas.

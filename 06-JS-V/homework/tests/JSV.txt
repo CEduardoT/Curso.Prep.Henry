@@ -1,0 +1,7 @@
+
+PROTOTYPE:
+1. el metodo prototype sirve ara poder ingresar a las propiedades y argumentos de un objeto o una clase.
+
+2. "_CONSTRUCTORs_"
+el constructor  comom su nombre lo indica construye un objeto dentro de la clase, el constructor tiene las propiedades del objeto que será
+usado.
